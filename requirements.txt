@@ -9,3 +9,4 @@ sklearn   == 1.5.1
 nltk      == 3.8.1
 json      == 2.0.9
 watermark == 2.4.3
+wget
